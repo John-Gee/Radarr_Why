@@ -8,6 +8,7 @@
 // @grant        GM_xmlhttpRequest
 // @updateURL    https://raw.githubusercontent.com/John-Gee/Radarr_Why/main/sabnzbd-why.user.js
 // @downloadURL  https://raw.githubusercontent.com/John-Gee/Radarr_Why/main/sabnzbdS-why.user.js
+// @license      GNU GPLv3+
 // ==/UserScript==
 
 /* ==== CONFIG (Prompted) ==== */

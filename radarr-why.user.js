@@ -8,6 +8,9 @@
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
 // @connect      *
+// @updateURL    https://raw.githubusercontent.com/John-Gee/Radarr_Why/main/radarr-why.user.js
+// @downloadURL  https://raw.githubusercontent.com/John-Gee/Radarr_Why/main/radarr-why.user.js
+// @license      GNU GPLv3+
 // ==/UserScript==
 
 /* -------------------------------------------------------
